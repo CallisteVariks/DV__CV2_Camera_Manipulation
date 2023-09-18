@@ -14,10 +14,10 @@ Below are listed some of the results:
 
 ![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/canny.png) 
 ![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/optical_flow.png) 
-![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/original_vs_optical_flow.png) 
-![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/original_vs_edge.png) 
+![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/original_vs_opticalflow.png) 
+![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/original_vs_canny.png) 
 
-![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/sobel.png) 
+![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/sobelX_vs_Y.png) 
 ![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/gaussian_blur.png) 
 ![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/median_blur.png) 
 ![alt-text-1](https://github.com/CallisteVariks/DV__CV2_Camera_Manipulation/blob/main/assets/blur.png) 
